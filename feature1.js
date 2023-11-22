@@ -1,3 +1,3 @@
 
-console.log("conflict 3")
-console.log("accepted none of the conflicts")
+console.log("conflict 7")
+
