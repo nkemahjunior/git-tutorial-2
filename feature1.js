@@ -1,5 +1,3 @@
 
 console.log("conflict 2")
-console.log("testing")
-
-
+console.log("accepted none of the conflicts")
