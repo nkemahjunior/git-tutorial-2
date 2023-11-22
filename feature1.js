@@ -1,1 +1,1 @@
-console.log("adding the first last feature2")
+console.log("conflict 2")
