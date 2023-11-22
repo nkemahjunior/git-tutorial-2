@@ -1,3 +1,3 @@
 
-console.log("conflict 2")
+console.log("conflict 7")
 console.log("accepted none of the conflicts")
